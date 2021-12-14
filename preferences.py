@@ -41,7 +41,3 @@ SELECTED_FEATURES = [
 
 ]
 score = 'decile_score'
-
-
-# duration between initial arrest and recidive
-# prison duration (to get size of crime)
